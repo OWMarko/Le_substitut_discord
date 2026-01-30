@@ -1,13 +1,20 @@
-# Le Substitut
+# Le Substitut (Discord Bot) 
 
-Bienvenue dans le dépôt GitHub de **Le Substitut**, le bot Discord au service des étudiants du campus Valrose à l'UniCA. Notre bot innovant simplifie la vie universitaire en offrant une assistance continue et en facilitant diverses tâches sur le serveur Discord du campus Valrose, UniCA
+> **Status:** Archived (Old student project)
 
-## Fonctionnalités
+This repository contains the code for a Discord bot I built a while back (when I was just starting to learn programming). At the time, the goal was to create a tool to help organize my academic server (and to learn how to interact with an API).
 
-- **Assistance Continue** : Le_substitut fournit des explications détaillées sur les itinéraires du campus, des informations cruciales sur les services tels que le centre de santé et les affaires académiques, scolarité...
-- **Modération du Serveur** : Aide les administrateurs à modérer le serveur et à attribuer les rôles, garantissant un environnement de discussion sûr et organisé.
-- **Informations Précises** : Offre des indications claires pour se rendre à divers bâtiments du campus et explique les différents services de l'université.
+I'm keeping this public as an archive. The code is no longer maintained and definitely doesn't reflect my current coding standards (no clean architecture here), but it was functional and actually used back then.
 
-## Vivez une expérience universitaire connectée et sans stress avec **Le Substitut** !
+### What it did
+It was a general-purpose bot designed to:
+* Handle basic server moderation.
+* Provide utility commands for students (reminders, map, admin infos etc.).
 
-Explorez ce dépôt pour découvrir comment **Le Substitut** peut transformer votre quotidien sur le campus.
+### Tech Stack
+* **Language:** Python
+* **Library:** `discord.py`
+* **Hosting:** Ran locally or on a small VPS at the time.
+
+---
+*This project is archived. Feel free to check out my more recent repositories (C++/HPC) to see my current coding level !*
